@@ -5,13 +5,13 @@
 </p>
 
 <p align="left">
-  Hi! I'm Henrique, a 22-year-old developer with a solid background in Programming and Systems Management. Currently in my final year of a Computer Engineering degree, I bridge the gap between academic theory and hands-on coding.
+  Hi! I'm Henrique, a 22-year-old developer with a solid background in Programming and Systems Management. Currently in my final year of a Computer Engineering degree.
 </p>
 
 <p align="left">
-  🚀 <strong>Current Focus:</strong> Mastering the Full-Stack ecosystem, specifically <strong>Java (Spring Boot)</strong> and <strong>React/JavaScript</strong>.
-  🕹️ <strong>Highlight:</strong> I developed a 2D Pokémon-style game engine for my final high school project, which solidified my foundations in OOP and system logic.
-  💡 <strong>Interests:</strong> Beyond code, I'm an enthusiast of sports, gaming, and gastronomy — I believe balance is the key to great insights.
+  🚀 <strong>Current Focus:</strong> Mastering the Full-Stack ecosystem, specifically <strong>Java (Spring Boot)</strong> and <strong>React/JavaScript</strong>. <br>
+  🕹️ <strong>Highlight:</strong> I developed a 2D Pokémon-style game for my final high school project, which solidified my foundations in C# OOP.<br>
+  💡 <strong>Interests:</strong> Beyond code, I'm an enthusiast of sports, gaming, and gastronomy — I believe balance is the key to great insights.<br>
 </p>
 
 <p align="left">
