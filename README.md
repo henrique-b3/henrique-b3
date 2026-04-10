@@ -55,5 +55,6 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/henrique-b3/henrique-b3/main/profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Top Languages">
+  </br>
   <img src="https://komarev.com/ghpvc/?username=henrique-b3&color=green" alt="Views">
 </div>
