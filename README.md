@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">
-  <strong>Computer Engineering Student @ Coimbra | Full-Stack Developer</strong>
+  <strong>Computer Engineering Student @ Coimbra</strong>
 </p>
 
 <p align="left">
